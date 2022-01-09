@@ -1,0 +1,2 @@
+file
+tutaj nastąpiła zmiana w pliku, więc ten tekst powinien być widoczny :)
